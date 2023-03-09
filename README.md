@@ -7,8 +7,9 @@ Steps :
 
 Goto - https://chromedriver.chromium.org/downloads and select the appropriate version.
 
-Unzip the file run and chromedriver.exe  include the ChromeDriver location in your PATH environment variable
+Unzip the file include the ChromeDriver location in your PATH environment variable
 
+3) Download and extract "final 3.0".
 Run "pipinstall.bat"
 Enter Rollno and password when prompted.
 
